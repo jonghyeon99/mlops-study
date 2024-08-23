@@ -1,0 +1,20 @@
+artifact_path: wine_quality_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.1
+model_size_bytes: 932
+model_uuid: 4fe856b2df7c415eb0ed0afd53e497cb
+run_id: 241c5492e62a4b90b32d35072b7d936b
+utc_time_created: '2024-08-19 03:48:52.957345'

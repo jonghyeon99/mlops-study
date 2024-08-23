@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/611245340918531633/9911bfbad2554ebca0bb4b96991d77f4/artifacts
+end_time: 1724039313509
+entry_point_name: ''
+experiment_id: '611245340918531633'
+lifecycle_stage: active
+run_id: 9911bfbad2554ebca0bb4b96991d77f4
+run_name: treasured-seal-235
+run_uuid: 9911bfbad2554ebca0bb4b96991d77f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724039310592
+status: 3
+tags: []
+user_id: a-07

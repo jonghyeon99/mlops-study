@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/2a5dee91bcf44417b38930798b123fd1/artifacts
+end_time: 1724204721228
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 2a5dee91bcf44417b38930798b123fd1
+run_name: capable-carp-833
+run_uuid: 2a5dee91bcf44417b38930798b123fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204712431
+status: 3
+tags: []
+user_id: a-07

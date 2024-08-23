@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/b78af43c34b545da8eab5f66f0fa4937/artifacts
+end_time: 1724204804979
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: b78af43c34b545da8eab5f66f0fa4937
+run_name: gifted-donkey-288
+run_uuid: b78af43c34b545da8eab5f66f0fa4937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204796046
+status: 3
+tags: []
+user_id: a-07

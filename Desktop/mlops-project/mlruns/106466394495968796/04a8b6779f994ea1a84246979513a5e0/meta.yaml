@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/04a8b6779f994ea1a84246979513a5e0/artifacts
+end_time: 1724204895099
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 04a8b6779f994ea1a84246979513a5e0
+run_name: unleashed-skunk-577
+run_uuid: 04a8b6779f994ea1a84246979513a5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204886226
+status: 3
+tags: []
+user_id: a-07

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/08a6b40a7db948d9b0646ddd0616de3f/artifacts
+end_time: 1724204929668
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 08a6b40a7db948d9b0646ddd0616de3f
+run_name: powerful-vole-886
+run_uuid: 08a6b40a7db948d9b0646ddd0616de3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204921025
+status: 3
+tags: []
+user_id: a-07

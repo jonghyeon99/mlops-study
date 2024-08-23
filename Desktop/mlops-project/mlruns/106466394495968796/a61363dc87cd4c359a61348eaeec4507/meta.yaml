@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/a61363dc87cd4c359a61348eaeec4507/artifacts
+end_time: 1724204855840
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: a61363dc87cd4c359a61348eaeec4507
+run_name: marvelous-carp-881
+run_uuid: a61363dc87cd4c359a61348eaeec4507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204846975
+status: 3
+tags: []
+user_id: a-07

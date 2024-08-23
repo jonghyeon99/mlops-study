@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a-07/Desktop/mlops-project/01.mlflow/mlruns/0/b9a323cdb6554c70a9335e77bfdc6f0b/artifacts
+end_time: 1723612985409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9a323cdb6554c70a9335e77bfdc6f0b
+run_name: worried-yak-512
+run_uuid: b9a323cdb6554c70a9335e77bfdc6f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723612984271
+status: 3
+tags: []
+user_id: a-07

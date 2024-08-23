@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/622491102150390550/1b6d449cdf224d4eafa57d6eb654e45f/artifacts
+deleted_time: 1723618222221
+end_time: 1723616446349
+entry_point_name: ''
+experiment_id: '622491102150390550'
+lifecycle_stage: deleted
+run_id: 1b6d449cdf224d4eafa57d6eb654e45f
+run_name: intelligent-flea-663
+run_uuid: 1b6d449cdf224d4eafa57d6eb654e45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723616446342
+status: 4
+tags: []
+user_id: a-07

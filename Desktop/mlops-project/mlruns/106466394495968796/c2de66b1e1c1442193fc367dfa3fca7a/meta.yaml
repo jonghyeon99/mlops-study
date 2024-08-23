@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/c2de66b1e1c1442193fc367dfa3fca7a/artifacts
+end_time: 1724204796032
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: c2de66b1e1c1442193fc367dfa3fca7a
+run_name: bald-owl-749
+run_uuid: c2de66b1e1c1442193fc367dfa3fca7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204787715
+status: 3
+tags: []
+user_id: a-07

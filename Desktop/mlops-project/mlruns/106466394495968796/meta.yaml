@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/106466394495968796
+creation_time: 1724199639863
+experiment_id: '106466394495968796'
+last_update_time: 1724199639863
+lifecycle_stage: active
+name: titanic_experiment

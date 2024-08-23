@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/611245340918531633/3d6c744e6c77459083be15885cf866c5/artifacts
+end_time: 1724039335993
+entry_point_name: ''
+experiment_id: '611245340918531633'
+lifecycle_stage: active
+run_id: 3d6c744e6c77459083be15885cf866c5
+run_name: rare-gnat-613
+run_uuid: 3d6c744e6c77459083be15885cf866c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724039333913
+status: 3
+tags: []
+user_id: a-07

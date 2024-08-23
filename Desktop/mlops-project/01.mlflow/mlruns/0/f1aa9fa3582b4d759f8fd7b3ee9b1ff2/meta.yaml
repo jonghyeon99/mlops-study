@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/a-07/Desktop/mlops-project/01.mlflow/mlruns/0/f1aa9fa3582b4d759f8fd7b3ee9b1ff2/artifacts
+end_time: 1723612912419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1aa9fa3582b4d759f8fd7b3ee9b1ff2
+run_name: trusting-bass-165
+run_uuid: f1aa9fa3582b4d759f8fd7b3ee9b1ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723612897639
+status: 3
+tags: []
+user_id: a-07

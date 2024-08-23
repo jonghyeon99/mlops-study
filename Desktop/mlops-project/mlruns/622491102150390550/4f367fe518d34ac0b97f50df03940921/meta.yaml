@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/622491102150390550/4f367fe518d34ac0b97f50df03940921/artifacts
+deleted_time: 1723618222222
+end_time: 1723616601527
+entry_point_name: ''
+experiment_id: '622491102150390550'
+lifecycle_stage: deleted
+run_id: 4f367fe518d34ac0b97f50df03940921
+run_name: thundering-doe-645
+run_uuid: 4f367fe518d34ac0b97f50df03940921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723616601517
+status: 4
+tags: []
+user_id: a-07

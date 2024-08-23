@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/a13ebe0b1dd941c0b17ff6d57bf8bb7b/artifacts
+deleted_time: 1724203354440
+end_time: 1724203254513
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: deleted
+run_id: a13ebe0b1dd941c0b17ff6d57bf8bb7b
+run_name: GaussianNB
+run_uuid: a13ebe0b1dd941c0b17ff6d57bf8bb7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724203239030
+status: 3
+tags: []
+user_id: a-07

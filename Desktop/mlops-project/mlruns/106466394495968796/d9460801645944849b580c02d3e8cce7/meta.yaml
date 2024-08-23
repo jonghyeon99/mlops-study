@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/d9460801645944849b580c02d3e8cce7/artifacts
+end_time: 1724204704136
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: d9460801645944849b580c02d3e8cce7
+run_name: capricious-duck-613
+run_uuid: d9460801645944849b580c02d3e8cce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204695005
+status: 3
+tags: []
+user_id: a-07

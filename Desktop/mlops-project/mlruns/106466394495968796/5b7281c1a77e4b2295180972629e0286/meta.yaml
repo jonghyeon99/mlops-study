@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/5b7281c1a77e4b2295180972629e0286/artifacts
+deleted_time: 1724203354442
+end_time: 1724200893278
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: deleted
+run_id: 5b7281c1a77e4b2295180972629e0286
+run_name: KNeighbors
+run_uuid: 5b7281c1a77e4b2295180972629e0286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724200888708
+status: 4
+tags: []
+user_id: a-07

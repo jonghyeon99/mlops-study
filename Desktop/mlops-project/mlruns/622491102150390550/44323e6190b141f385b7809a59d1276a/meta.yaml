@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/622491102150390550/44323e6190b141f385b7809a59d1276a/artifacts
+deleted_time: 1723618222221
+end_time: 1723616526334
+entry_point_name: ''
+experiment_id: '622491102150390550'
+lifecycle_stage: deleted
+run_id: 44323e6190b141f385b7809a59d1276a
+run_name: unequaled-kite-865
+run_uuid: 44323e6190b141f385b7809a59d1276a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723616526327
+status: 4
+tags: []
+user_id: a-07

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/622491102150390550/b7e5b905a59a472ab83bc4b30d5e5b3f/artifacts
+end_time: 1723613665209
+entry_point_name: ''
+experiment_id: '622491102150390550'
+lifecycle_stage: active
+run_id: b7e5b905a59a472ab83bc4b30d5e5b3f
+run_name: glamorous-zebra-443
+run_uuid: b7e5b905a59a472ab83bc4b30d5e5b3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723613663692
+status: 3
+tags: []
+user_id: a-07

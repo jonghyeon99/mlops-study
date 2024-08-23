@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/692ae952ecea4e7f95f0902a665741ba/artifacts
+end_time: 1724204938762
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 692ae952ecea4e7f95f0902a665741ba
+run_name: amusing-vole-993
+run_uuid: 692ae952ecea4e7f95f0902a665741ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204929680
+status: 3
+tags: []
+user_id: a-07

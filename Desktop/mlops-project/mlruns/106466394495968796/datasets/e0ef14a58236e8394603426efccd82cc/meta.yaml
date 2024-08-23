@@ -1,0 +1,12 @@
+digest: 846f30ec
+name: dataset
+profile: '{"num_rows": 89, "num_elements": 712}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pclass", "required": true},
+  {"type": "long", "name": "Sex", "required": true}, {"type": "long", "name": "Age",
+  "required": true}, {"type": "long", "name": "SibSp", "required": true}, {"type":
+  "long", "name": "Parch", "required": true}, {"type": "string", "name": "Fare", "required":
+  true}, {"type": "long", "name": "Embarked", "required": true}, {"type": "double",
+  "name": "Name_Title_Num", "required": true}]}'
+source: '{"tags": {"mlflow.user": "a-07", "mlflow.source.name": "/Users/a-07/Desktop/mlops-project/.venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

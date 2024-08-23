@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/727f70fd475c480e8868654ca216f08d/artifacts
+end_time: 1724204686013
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 727f70fd475c480e8868654ca216f08d
+run_name: mercurial-lamb-327
+run_uuid: 727f70fd475c480e8868654ca216f08d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204677758
+status: 3
+tags: []
+user_id: a-07

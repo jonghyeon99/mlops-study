@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/971f10f857884510ad6216bf5c71369a/artifacts
+end_time: 1724204772085
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 971f10f857884510ad6216bf5c71369a
+run_name: stately-goat-830
+run_uuid: 971f10f857884510ad6216bf5c71369a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204763371
+status: 3
+tags: []
+user_id: a-07

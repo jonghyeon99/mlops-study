@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/da9728f721ea42c493259ab7af6065e5/artifacts
+end_time: 1724204694990
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: da9728f721ea42c493259ab7af6065e5
+run_name: upset-smelt-243
+run_uuid: da9728f721ea42c493259ab7af6065e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204686027
+status: 3
+tags: []
+user_id: a-07

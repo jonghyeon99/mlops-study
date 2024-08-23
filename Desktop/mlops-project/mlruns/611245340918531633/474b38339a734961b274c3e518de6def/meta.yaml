@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/611245340918531633/474b38339a734961b274c3e518de6def/artifacts
+end_time: 1724039327668
+entry_point_name: ''
+experiment_id: '611245340918531633'
+lifecycle_stage: active
+run_id: 474b38339a734961b274c3e518de6def
+run_name: valuable-moth-975
+run_uuid: 474b38339a734961b274c3e518de6def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724039325695
+status: 3
+tags: []
+user_id: a-07

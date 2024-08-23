@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/14161e67ce6a4569999df8bfec62c6ac/artifacts
+end_time: 1724203377536
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 14161e67ce6a4569999df8bfec62c6ac
+run_name: KNeighbors
+run_uuid: 14161e67ce6a4569999df8bfec62c6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724203360671
+status: 3
+tags: []
+user_id: a-07

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724206443078
+current_stage: None
+description: ''
+last_updated_timestamp: 1724206443078
+name: Tittanic_SVC
+run_id: 7b37d36d7d2044a7bd823f3e1d143940
+run_link: ''
+source: mlflow-artifacts:/106466394495968796/7b37d36d7d2044a7bd823f3e1d143940/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/106466394495968796/7b37d36d7d2044a7bd823f3e1d143940/artifacts/model
+user_id: null
+version: 1

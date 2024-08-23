@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/611245340918531633/067ff2297e704abda0b89c02d059b4bc/artifacts
+end_time: 1724039321654
+entry_point_name: ''
+experiment_id: '611245340918531633'
+lifecycle_stage: active
+run_id: 067ff2297e704abda0b89c02d059b4bc
+run_name: gregarious-finch-503
+run_uuid: 067ff2297e704abda0b89c02d059b4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724039319624
+status: 3
+tags: []
+user_id: a-07

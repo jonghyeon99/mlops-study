@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/03011324f06e4ffd88eb4c425f9cb8ac/artifacts
+end_time: 1724204635103
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: 03011324f06e4ffd88eb4c425f9cb8ac
+run_name: abrasive-skunk-766
+run_uuid: 03011324f06e4ffd88eb4c425f9cb8ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204626499
+status: 3
+tags: []
+user_id: a-07

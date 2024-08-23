@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/611245340918531633/f2cfec1f1d044b7593c3bbfcc590def3/artifacts
+end_time: 1724039338003
+entry_point_name: ''
+experiment_id: '611245340918531633'
+lifecycle_stage: active
+run_id: f2cfec1f1d044b7593c3bbfcc590def3
+run_name: nervous-eel-955
+run_uuid: f2cfec1f1d044b7593c3bbfcc590def3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724039336006
+status: 3
+tags: []
+user_id: a-07

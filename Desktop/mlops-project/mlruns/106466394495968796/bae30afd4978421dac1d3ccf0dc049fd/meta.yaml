@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/bae30afd4978421dac1d3ccf0dc049fd/artifacts
+end_time: 1724204948125
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: bae30afd4978421dac1d3ccf0dc049fd
+run_name: invincible-grouse-16
+run_uuid: bae30afd4978421dac1d3ccf0dc049fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204938777
+status: 3
+tags: []
+user_id: a-07

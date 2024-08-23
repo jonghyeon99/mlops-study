@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/ea4b040d0d524c048cac2262f63976a5/artifacts
+end_time: 1724204787671
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: ea4b040d0d524c048cac2262f63976a5
+run_name: unruly-grub-606
+run_uuid: ea4b040d0d524c048cac2262f63976a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204772135
+status: 3
+tags: []
+user_id: a-07

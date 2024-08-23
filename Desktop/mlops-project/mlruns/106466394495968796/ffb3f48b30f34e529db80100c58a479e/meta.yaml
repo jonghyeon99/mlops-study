@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106466394495968796/ffb3f48b30f34e529db80100c58a479e/artifacts
+end_time: 1724204729580
+entry_point_name: ''
+experiment_id: '106466394495968796'
+lifecycle_stage: active
+run_id: ffb3f48b30f34e529db80100c58a479e
+run_name: amusing-hog-875
+run_uuid: ffb3f48b30f34e529db80100c58a479e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724204721241
+status: 3
+tags: []
+user_id: a-07
